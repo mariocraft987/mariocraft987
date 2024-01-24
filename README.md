@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html and javascript
 - 💞️ I’m looking to collaborate on a game im creating
 - <hr>
-- 📫 Come find me on <a href="scratch.mit.edu/users/mariocraft987/">scratch!</a>
+- 📫 Come find me on <a href="https://scratch.mit.edu/users/mariocraft987/">scratch!</a>
 
 <!---
 Mariocraft987/Mariocraft987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
