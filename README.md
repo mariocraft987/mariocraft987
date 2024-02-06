@@ -8,7 +8,7 @@
 <hr>
 
 I started github as a way to host my websites, as I love coding in javascript and html.<br/>
-  Come check out my website: https://mariocraft987.github.io
+  Come check out my own <a href="https://mariocraft987.github.io">website</a>
 
 <!---
 Mariocraft987/Mariocraft987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
