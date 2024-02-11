@@ -9,8 +9,8 @@
 
 I started github as a way to host my websites, as I love coding in javascript and html.<br/>
   Come check out my own <a href="https://mariocraft987.github.io">own website</a>
-    <h4>My contributions graph</h4>
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mariocraft987&bg_color=47b9ff&color=c940c0&line=2e2bfd&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <h4>What I have learned so far</h4>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,php,py,)](https://skillicons.dev)<br />
 
 <!---
 Mariocraft987/Mariocraft987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
