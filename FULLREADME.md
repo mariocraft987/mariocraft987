@@ -1,7 +1,7 @@
 I started github as a way to host my websites, as I love coding in javascript and html.<br/>
   Come check out my own <a href="https://mariocraft987.github.io">own website</a>
     <h4>What I have learned so far</h4>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,php,py,)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,php,svelte,svg)](https://skillicons.dev)<br />
 <details>
   <summary>Github Stats ⚡</summary>
   
