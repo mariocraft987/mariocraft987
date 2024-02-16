@@ -19,3 +19,5 @@ I am starting to learn python!
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mariocraft987&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
+
+  ![](https://komarev.com/ghpvc/?username=mariocraft987&label=Profile%20Visits&color=blue&style=for-the-badge)
