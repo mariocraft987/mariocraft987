@@ -10,7 +10,7 @@ I started github as a way to host my websites, as I love coding in javascript an
   Come check out my own <a href="https://mariocraft987.github.io">own website</a>
     <h4>What I have learned so far</h4>
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,vscode,py,php,svelte,svg)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,svelte,vscode,py,php,vercel,svg)](https://skillicons.dev)<br />
 
 I am starting to learn python!
 <details>
