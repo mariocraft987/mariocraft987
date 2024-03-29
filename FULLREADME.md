@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=000000&random=false&width=435&lines=Hi%2C+im+mariocraft987!)](https://git.io/typing-svg)
 - 👋 Hi, I’m @mariocraft987
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html and javascript
@@ -10,7 +9,8 @@ I started github as a way to host my websites, as I love coding in javascript an
   Come check out my own <a href="https://mariocraft987.github.io">own website</a>
     <h4>What I have learned so far</h4>
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,svelte,vscode,py,php,vercel,svg)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,svelte,vscode,py,php,github,vercel,svg,discord)](https://skillicons.dev)<br />
+[![mastered](https://img.shields.io/badge/mastered-Html,_Javascript,_and_Python-dodgerblue)](https://img.shields.io)
 
 I am a pro at Python
   
