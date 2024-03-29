@@ -12,12 +12,9 @@ I started github as a way to host my websites, as I love coding in javascript an
     
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,svelte,vscode,py,php,vercel,svg)](https://skillicons.dev)<br />
 
-I am starting to learn python!
-<details>
-  <summary>Github Stats ⚡</summary>
+I am a pro at Python
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mariocraft987&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
 
   ![](https://komarev.com/ghpvc/?username=mariocraft987&label=Profile%20Visits&color=blue&style=for-the-badge)
