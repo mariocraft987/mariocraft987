@@ -4,6 +4,8 @@
 - 💞️ My biggest project is Bark Coding
 - 📫 Come reach me on my <a href="https://scratch.mit.edu/users/mariocraft987/" target="_blank">scratch account!</a>
 
+![Bark is almost done](https://img.shields.io/badge/Bark%20Coding-78%25%20done-dodgerblue)
+
 See my full bio [here.](https://github.com/Mariocraft987/Mariocraft987/blob/main/FULLREADME.md)
 
 <!---
