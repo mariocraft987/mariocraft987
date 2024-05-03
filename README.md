@@ -6,7 +6,7 @@
 
 ![Bark is almost done](https://img.shields.io/badge/Bark%20Coding-78%25%20done-dodgerblue)
 
-See my full bio [here.](https://github.com/Mariocraft987/Mariocraft987/blob/main/FULLREADME.md)
+[Psst, see my full bio here.](https://github.com/Mariocraft987/Mariocraft987/blob/main/FULLREADME.md)
 
 <!---
 Mariocraft987/Mariocraft987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
