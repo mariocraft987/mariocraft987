@@ -18,4 +18,4 @@ I am a pro at Python now
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mariocraft987&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-  ![](https://komarev.com/ghpvc/?username=mariocraft987&label=How%20many%20people%20seen%20this%20including%20you:&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=mariocraft987&label=Views:&color=blue&style=for-the-badge)
