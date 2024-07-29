@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mariocraft987
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning how to make a Discord Bot
 - 💞️ My biggest project is Bark Coding
-- 📫 Come reach me on my <a href="https://scratch.mit.edu/users/mariocraft987/" target="_blank">scratch account!</a>
+- 📫 Come reach me on my <a href="https://mariocraft987.github.io" target="_blank">website!</a>
 
-![Bark is almost done](https://img.shields.io/badge/Bark%20Coding-60%25%20done-dodgerblue)
+![Bark is almost done](https://img.shields.io/badge/Bark%20Coding-73%25%20done-dodgerblue)
 
 [Psst, see my full bio here.](https://github.com/Mariocraft987/Mariocraft987/blob/main/FULLREADME.md)
 
