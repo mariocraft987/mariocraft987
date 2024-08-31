@@ -9,7 +9,7 @@ I started github as a way to host my websites, as I love coding in javascript an
   Come check out my own <a href="https://mariocraft987.github.io">own website</a>
     <h4>What I have learned so far</h4>
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,svelte,vscode,py,php,github,vercel,svg,discord)](https://skillicons.dev)<br />
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,svelte,vscode,py,php,github,vercel,godot,discord)](https://skillicons.dev)<br />
 [![mastered](https://img.shields.io/badge/mastered-Html,_Javascript,_and_Python-dodgerblue)](https://img.shields.io)
 <hr>
 
