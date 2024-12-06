@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mariocraft987
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ My biggest project is Bark Coding
-- 📫 Come reach me on my <a href="https://atomicbolts.nekoweb.org" target="_blank">website!</a>
+[my website](https://atomicbolts.nekoweb.org)
 
-![Bark is almost done](https://img.shields.io/badge/Bark%20Coding-82%25%20done-dodgerblue)
+i like to work on Bark Coding, my biggest project
+
+![my stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=pie)
 
 [Psst, see my full bio here.](https://github.com/Mariocraft987/Mariocraft987/blob/main/FULLREADME.md)
 
