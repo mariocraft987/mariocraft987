@@ -1,10 +1,13 @@
-[my website](https://atomicbolts.nekoweb.org)
+i am an indie web developer that started coding in 2020
+
+CURRENTLY LEARNING C++ AND JAVA!!!
 
 i like to work on Bark Coding, my biggest project
 
-![my stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=pie)
+<a href="https://github-readme-stats.vercel.app/">![my stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=pie)</a>
 
-[Psst, see my full bio here.](https://github.com/Mariocraft987/Mariocraft987/blob/main/FULLREADME.md)
+[my website](https://atomicbolts.nekoweb.org)
+
 
 <!---
 Mariocraft987/Mariocraft987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
