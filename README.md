@@ -1,4 +1,6 @@
-i am an indie web developer that started coding in 2020
+i am an indie web developer that has 5 years of programming experience.
+
+![](https://komarev.com/ghpvc/?username=mariocraft987&label=Views:&color=blue&style=for-the-badge)
 
 <details>
   <summary>
@@ -20,20 +22,16 @@ I started Github as a way to host my websites, I also love coding in javascript 
 [![mastered](https://img.shields.io/badge/mastered-Html,_Javascript,_and_Python-dodgerblue)](https://img.shields.io)
 <hr>
 
-CURRENTLY LEARNING C++ AND JAVA!!!
+# CURRENTLY LEARNING C++ AND JAVA!!!
 
-i like to work on Bark Coding, my biggest project
+I like to work on Bark Coding, my biggest project
 
 I am pro at Python now
-
-<a href="https://github-readme-stats.vercel.app/">![my stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=pie)</a>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mariocraft987&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-  ![](https://komarev.com/ghpvc/?username=mariocraft987&label=Views:&color=blue&style=for-the-badge)
-
-  [my website](https://atomicbolts.nekoweb.org)
+  [check out my website for <b>MORE</b> info](https://atomicbolts.nekoweb.org)
 </details>
 
 
