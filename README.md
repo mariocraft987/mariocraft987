@@ -3,34 +3,43 @@ I am an indie web developer with 5 years of programming experience.
 <a href="https://atomicbolts.nekoweb.org"><img src="https://atomicbolts.nekoweb.org/src/banner.gif" title="Atomic's Weird Site"></a>
 <details>
   <summary>
-    more.
+    MORE!
   </summary>
-  
+
+# Introduction
 Hello, im mariocraft987
 I started Github as a way to host my websites, I love to code in javascript and html.<br/>
-#### What I have learned so far
-    
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,svelte,vscode,visualstudio,eclipse,py,java,php,github,vercel,godot,discord,linux,ubuntu)](https://skillicons.dev)<br />
-[![mastered](https://img.shields.io/badge/mastered-Html,_Javascript,_and_Python-dodgerblue)](https://img.shields.io)
-<hr>
 
-# CURRENTLY LEARNING C++ AND JAVA!!!
+I like to work on [Bark Coding](https://github.com/cytrinc/bark-coding), my biggest project
 
-I like to work on Bark Coding, my biggest project
+## I'M CURRENTLY LEARNING JAVA!!!
 
-I am pro at Python now
-  
+<!-- I am pro at Python now -->
+  # Stats
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mariocraft987&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-  [check out my website for <b>MORE</b> info](https://atomicbolts.nekoweb.org)
+  Mastered languages and applications
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,vscode,visualstudio,eclipse,py,php,github,vercel,discord,ubuntu)](https://skillicons.dev)<br />
+
+  # Cool projects
+
+  <a href="https://bark.dumorando.com/">![Bark Coding](https://bark.dumorando.com/src/images/Bark.svg)</a>
+
+  Bark Coding is an online community, and a beta web developer tool.
+
+  <a href="https://bbtow.vercel.app"><img src="https://bbtow.vercel.app/src/img/buttons/88x31-3.gif" alt="bring back the old web" title="Bring Back The Old Web!"></a>
+
+  <abbr title="Bring Back the Old Web">BBtOW</abbr> is a community where you can share your websites, almost like Geocities.
 
   <hr/>
 
   Signed mariocraft987 aka AtomicBolts
 
-  ![](https://komarev.com/ghpvc/?username=mariocraft987&label=Views:&color=blue&style=for-the-badge)
 </details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mariocraft987&label=Views:&color=blue&style=for-the-badge)
 
 
 
