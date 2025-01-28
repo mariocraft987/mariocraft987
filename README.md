@@ -16,7 +16,7 @@ I like to work on [Bark Coding](https://github.com/cytrinc/bark-coding), my bigg
 
 <!-- I am pro at Python now -->
   # Stats
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mariocraft987&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariocraft987&show_icons=true&theme=radical)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariocraft987&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
   Mastered languages and applications
