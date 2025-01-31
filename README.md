@@ -1,9 +1,11 @@
-I am an indie web developer with 5 years of programming experience.
+i am an indie web developer with 5 years of programming experience.
+
+i am currently learning Unity,
 
 <a href="https://atomicbolts.nekoweb.org"><img src="https://atomicbolts.nekoweb.org/src/banner.gif" title="Atomic's Weird Site"></a>
 <details>
   <summary>
-    MORE!
+    MORE INFORMATION!
   </summary>
 
 # Introduction
