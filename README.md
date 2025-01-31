@@ -23,7 +23,7 @@ I like to work on [Bark Coding](https://github.com/cytrinc/bark-coding), my bigg
 
   Mastered languages and applications
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,vscode,visualstudio,eclipse,py,php,github,vercel,discord,ubuntu)](https://skillicons.dev)<br />
+  [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,js,vscode,visualstudio,eclipse,py,php,github,vercel,discord)](https://skillicons.dev)<br />
 
   # Cool projects
 
