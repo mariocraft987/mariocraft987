@@ -2,7 +2,11 @@ i am an indie web developer with 5 years of programming experience.
 
 i am currently learning Unity,
 
-<a href="https://atomicbolts.nekoweb.org"><img src="https://atomicbolts.nekoweb.org/src/banner.gif" title="Atomic's Weird Site"></a>
+My discord:
+<a href="https://discord.gg/yUUxh2bruR">![Bark Coding Discord](https://discord.com/api/guilds/1316860447541952524/embed.png)</a>
+
+<hr/>
+
 <details>
   <summary>
     MORE INFORMATION!
@@ -41,8 +45,10 @@ I like to work on [Bark Coding](https://github.com/cytrinc/bark-coding), my bigg
 
 </details>
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=mariocraft987&label=Views:&color=blue&style=for-the-badge)
 
+<a href="https://atomicbolts.nekoweb.org"><img src="https://atomicbolts.nekoweb.org/src/banner.gif" title="Atomic's Weird Site"></a>
 
 
 <!---
