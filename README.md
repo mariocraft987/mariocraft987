@@ -2,8 +2,8 @@ i am an indie web developer with 5 years of programming experience.
 
 i am currently learning Unity,
 
-My discord:
-<a href="https://discord.gg/yUUxh2bruR">![Bark Coding Discord](https://discord.com/api/guilds/1316860447541952524/embed.png)</a>
+Bark Coding Discord:
+<a href="https://discord.gg/hXmHw7H9BF">![Bark Coding Discord](https://discord.com/api/guilds/1225552735445843978/embed.png)</a>
 
 <hr/>
 
@@ -16,7 +16,7 @@ My discord:
 Hello, im mariocraft987
 I started Github as a way to host my websites, I love to code in javascript and html.<br/>
 
-I like to work on [Bark Coding](https://github.com/cytrinc/bark-coding), my biggest project
+<!-- I like to work on [Bark Coding](https://github.com/cytrinc/bark-coding), my biggest project -->
 
 ## I'M CURRENTLY LEARNING JAVA!!!
 
