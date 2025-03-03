@@ -2,8 +2,8 @@ i am an indie web developer with 5 years of programming experience.
 
 i am currently learning Unity,
 
-Bark Coding Discord:
-<a href="https://discord.gg/hXmHw7H9BF">![Bark Coding Discord](https://discord.com/api/guilds/1225552735445843978/embed.png)</a>
+my discord
+https://discord.gg/yUUxh2bruR
 
 <hr/>
 
