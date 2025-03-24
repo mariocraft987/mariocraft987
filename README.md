@@ -1,6 +1,7 @@
 i am an indie web developer with 5 years of programming experience.
 
-i am currently learning Unity,
+i am currently playing with haxeflixel and gamemaker
+
 
 my discord
 https://discord.gg/yUUxh2bruR
@@ -49,6 +50,8 @@ I started Github as a way to host my websites, I love to code in javascript and 
 ![Profile Views](https://komarev.com/ghpvc/?username=mariocraft987&label=Views:&color=blue&style=for-the-badge)
 
 <a href="https://atomicbolts.nekoweb.org"><img src="https://atomicbolts.nekoweb.org/src/banner.gif" title="Atomic's Weird Site"></a>
+
+contact: [mariocraft987dev@gmail.com](mailto:mariocraft987dev@gmail.com)
 
 
 <!---
