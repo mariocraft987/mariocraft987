@@ -3,8 +3,8 @@ i am an indie web developer with 5 years of programming experience.
 i am currently playing with haxeflixel and gamemaker
 
 
-my discord
-https://discord.gg/yUUxh2bruR
+my house
+[https://discord.gg/yUUxh2bruR](https://discord.gg/S5KT9r8U5h)
 
 <hr/>
 
